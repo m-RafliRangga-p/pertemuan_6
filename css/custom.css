@@ -1,18 +1,20 @@
 *{
-    padding: 0;
-    margin: 0;
+    font-family: "Lora", serif;
+    box-sizing: border-box;
 }
 
-
-.logo{
-    height: 100px;
+.logo {
+    height: 90px;
+}
+.navbar-nav li {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 17px;
+    font-weight: 600;
 }
 
-/* .navbar{
-    border: 1px solid red;
-}
-
-.navbar-brand{
-    border: 1px solid red;
-    margin-left: -100px;
+/* .hero-img img{
+    width: 630px;
+    border-radius: 20px;
+    padding: 10px;
 } */
